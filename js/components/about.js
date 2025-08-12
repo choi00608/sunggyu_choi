@@ -1,5 +1,5 @@
 export const about = `
-<section id="about" class="container my-5 p-5 theme-color">
+<section id="about" class="container my-5 p-4 theme-color">
     <div class="row align-items-center">
         <div class="col-md-4 text-center mb-4 mb-md-0">
             <img src="assets/img1.png" class="img-fluid rounded-circle" alt="Profile Picture">

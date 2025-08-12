@@ -1,5 +1,5 @@
 export const skills = `
-<section id="skills" class="container my-5 p-5 theme-color-skills">
+<section id="skills" class="container my-5 p-4 theme-color-skills">
     <h2 class="text-center mb-5">Skills</h2>
     <!-- Languages -->
     <div class="mb-4">

@@ -1,5 +1,5 @@
 export const contactHTML = `
-<section id="contact" class="container my-5 theme-color-content">
+<section id="contact" class="container my-5 p-4 theme-color-content">
     <h2 class="text-center mb-4">Get In Touch</h2>
     <div class="row text-center">
         <div class="col">

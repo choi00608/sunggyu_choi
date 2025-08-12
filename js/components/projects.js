@@ -1,5 +1,5 @@
 export const projects = `
-<section id="projects" class="container my-5 theme-color-projects">
+<section id="projects" class="container my-5 p-4 theme-color-projects">
     <h2 class="text-center mb-5">Projects</h2>
     <div class="row">
         <!-- Project 1 -->
