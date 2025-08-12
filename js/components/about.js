@@ -1,5 +1,5 @@
 export const about = `
-<section id="about" class="container my-5 p-5 bg-light">
+<section id="about" class="container my-5 p-5 theme-color">
     <div class="row align-items-center">
         <div class="col-md-4 text-center mb-4 mb-md-0">
             <img src="assets/img1.png" class="img-fluid rounded-circle" alt="Profile Picture">
@@ -24,6 +24,17 @@ export const about = `
                 I am committed to continuous learning and growth, and I aspire to contribute to creating new value through AI technology.
                 If you're curious about my work or interested in exploring exciting challenges together, please feel free to reach out!
             </p>
+            <hr class="my-4">
+            <h4 class="mb-3">Education</h4>
+
+            <div class="border-start border-custom-purple border-3 ps-3">
+                <p class="mb-1">
+                    <strong>Kangwon National University</strong> (2020.03 ~ )
+                    <!-- <p class="mb-0 ms-3">Bachelor of Science, Computer Science and Engineering</p> -->
+                    <p class="mb-0 ms-3">Computer Science and Engineering (4th Year)</p>
+                </p>
+            </div>
+            
         </div>
     </div>
 </section>

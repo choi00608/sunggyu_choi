@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:#e0eff0
 }
 
 code {
@@ -53,4 +54,59 @@ code {
 
 #about .lead {
     font-family: 'Roboto', sans-serif;
+}
+
+:root {
+    --custom-purple: #71c9cee3; /* 연한 보라색 */
+    --custom-about2: #E3FDFD;
+    --custom-projects: #CBF1F5;
+    --custom-skills: #A6E3E9;
+    --custom-contact: #71C9CE;
+}
+
+.bg-custom-purple {
+    background-color: var(--custom-purple) !important;
+}
+
+.border-custom-purple {
+    border-color: var(--custom-purple) !important;
+}
+
+.theme-color{
+  background-color: var(--custom-about2) !important;
+}
+
+.theme-color-projects{
+  background-color: var(--custom-projects) !important;
+}
+
+.theme-color-skills{
+  background-color: var(--custom-skills) !important;
+}
+
+.theme-color-content{
+  background-color: var(--custom-contact) !important;
+}
+
+#about {
+  border-radius: 15px
+}
+
+#projects {
+  border-radius: 15px
+}
+
+#skills {
+  border-radius: 15px
+}
+
+#contact {
+  border-radius: 15px
+}
+
+#btn{
+  background-color: #71CEA4
+}
+#email-me-btn{
+  background-color: #71CEA4
 }

@@ -1,5 +1,5 @@
 export const header = `
-<nav id="main-nav" class="navbar navbar-expand-lg navbar-dark bg-success sticky-top">
+<nav id="main-nav" class="navbar navbar-expand-lg navbar-dark bg-custom-purple sticky-top">
     <div class="container-fluid">
         <a class="navbar-brand" href="#home" style="margin-left: 1em; font-family: 'apple-system'">SUNGGYU CHOI's Portfolio</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

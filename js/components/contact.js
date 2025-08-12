@@ -1,5 +1,5 @@
 export const contactHTML = `
-<section id="contact" class="container my-5">
+<section id="contact" class="container my-5 theme-color-content">
     <h2 class="text-center mb-4">Get In Touch</h2>
     <div class="row text-center">
         <div class="col">
@@ -7,8 +7,8 @@ export const contactHTML = `
                 I'm always open to new opportunities and collaborations.
                 Whether you have a project idea, a question about my work, or just want to connect, feel free to reach out!
             </p>
-            <a href="#" id="email-me-btn" class="btn btn-success m-2">Email Me</a>
-            <a href="https://github.com/choi00608" target="_blank" class="btn btn-dark m-2">GitHub</a>
+            <a href="#" id="email-me-btn" class="btn btn-secondary m-2">Email Me</a>
+            <a id="btn" href="https://github.com/choi00608" target="_blank" class="btn btn-secondary m-2">GitHub</a>
             <!--<a href="https://linkedin.com/in/cheolsukim" target="_blank" class="btn btn-info m-2">LinkedIn</a>-->
         </div>
     </div>

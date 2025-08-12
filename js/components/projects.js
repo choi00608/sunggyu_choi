@@ -1,5 +1,5 @@
 export const projects = `
-<section id="projects" class="container my-5">
+<section id="projects" class="container my-5 theme-color-projects">
     <h2 class="text-center mb-5">Projects</h2>
     <div class="row">
         <!-- Project 1 -->
@@ -10,7 +10,7 @@ export const projects = `
                     <h5 class="card-title">Hellzzang</h5>
                     <p class="card-text">AI-based Food Recognition and Diet Management Service</p>
                     <div class="mt-auto">
-                        <a href="https://github.com/dksruf/HELL_ZZANG/tree/an" target="_blank" class="btn btn-primary me-2">GitHub</a>
+                        <a id="btn" href="https://github.com/dksruf/HELL_ZZANG/tree/an" target="_blank" class="btn btn-secondary me-2">GitHub</a>
                     </div>
                     <div class="mt-3">
                         <span class="badge rounded-pill bg-white me-1 border border-success" style="color: black; font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 0.9em;"><img src="assets/logo/Python.svg" alt="Python logo" style="height: 1em; margin-right: 0.5em;">Python</span>
@@ -31,7 +31,7 @@ export const projects = `
                     <h5 class="card-title">CLIP Fine tuning</h5>
                     <p class="card-text">CLIP Model Fine-tuning and Answer Inference for VQA Problem Solving</p>
                     <div class="mt-auto">
-                        <a href="https://github.com/choi00608/dacon_clip" target="_blank" class="btn btn-primary me-2">GitHub</a>
+                        <a id="btn" href="https://github.com/choi00608/dacon_clip" target="_blank" class="btn btn-secondary me-2">GitHub</a>
                     </div>
                     <div class="mt-3">
                         <span class="badge rounded-pill bg-white me-1 border border-success" style="color: black; font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 0.9em;"><img src="assets/logo/PyTorch.svg" alt="PyTorch logo" style="height: 1em; margin-right: 0.5em;">PyTorch</span>
@@ -48,7 +48,7 @@ export const projects = `
                     <h5 class="card-title">AI TRPG (Working Title)</h5>
                     <p class="card-text">A Solo TRPG Experience with AI</p>
                     <div class="mt-auto">
-                        <a href="https://github.com/choi00608/D_is_silent" target="_blank" class="btn btn-primary me-2">GitHub</a>
+                        <a id="btn" href="https://github.com/choi00608/D_is_silent" target="_blank" class="btn btn-secondary me-2">GitHub</a>
                     </div>
                     <div class="mt-3">
                         <span class="badge rounded-pill bg-white me-1 border border-success" style="color: black; font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 0.9em;"><img src="assets/logo/Python.svg" alt="Python logo" style="height: 1em; margin-right: 0.5em;">Python</span>
