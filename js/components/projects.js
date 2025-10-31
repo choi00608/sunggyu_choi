@@ -61,7 +61,7 @@ export const projects = `
         <!-- Project 4 -->
         <div class="col-md-4 mb-4">
             <div class="card h-100">
-                <img src="assets/project/fortuneteller" class="card-img-top" alt="AI fortuneteller Project">
+                <img src="assets/project/fortuneteller.png" class="card-img-top" alt="AI fortuneteller Project">
                 <div class="card-body d-flex flex-column">
                     <h5 class="card-title">AI fortuneteller Project</h5>
                     <p class="card-text">AI-based fortune-telling service(사주)</p>
@@ -71,7 +71,7 @@ export const projects = `
                     <div class="mt-3">
                         <span class="badge rounded-pill bg-white me-1 border border-success" style="color: black; font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 0.9em;"><img src="assets/logo/Python.svg" alt="Python logo" style="height: 1em; margin-right: 0.5em;">Python</span>
                         <span class="badge rounded-pill bg-white me-1 border border-success" style="color: black; font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 0.9em;"><img src="assets/logo/Django.svg" alt="Django logo" style="height: 1em; margin-right: 0.5em;">Django</span>
-                        <span class="badge rounded-pill bg-white me-1 border border-success" style="color: black; font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 0.9em;"><img src="assets/logo/HTML5.svg" alt="HTML5 logo" style="height: 1em; margin-right: 0.5em;">Django</span>
+                        <span class="badge rounded-pill bg-white me-1 border border-success" style="color: black; font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 0.9em;"><img src="assets/logo/HTML5.svg" alt="HTML5 logo" style="height: 1em; margin-right: 0.5em;">HTML/CSS</span>
                     </div>
                 </div>
             </div>
