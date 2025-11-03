@@ -76,6 +76,24 @@ export const projects = `
                 </div>
             </div>
         </div>
+        <!-- Project 5 -->
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <img src="assets/project/function_vending_machine.png" class="card-img-top" alt="Function Vending Machine">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">Function Vending Machine</h5>
+                    <p class="card-text">Generate code block or module with AI(Gemini)</p>
+                    <div class="mt-auto">
+                        <a id="btn" href="https://github.com/choi00608/Function_Vending_Machine" target="_blank" class="btn btn-secondary me-2">GitHub</a>
+                    </div>
+                    <div class="mt-3">
+                        <span class="badge rounded-pill bg-white me-1 border border-success" style="color: black; font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 0.9em;"><img src="assets/logo/Python.svg" alt="Python logo" style="height: 1em; margin-right: 0.5em;">Python</span>
+                        <span class="badge rounded-pill bg-white me-1 border border-success" style="color: black; font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 0.9em;"><img src="assets/logo/Django.svg" alt="Django logo" style="height: 1em; margin-right: 0.5em;">Django</span>
+                        <span class="badge rounded-pill bg-white me-1 border border-success" style="color: black; font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 0.9em;"><img src="assets/logo/HTML5.svg" alt="HTML5 logo" style="height: 1em; margin-right: 0.5em;">HTML/CSS</span>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 `;
