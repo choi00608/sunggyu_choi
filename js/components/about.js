@@ -29,9 +29,18 @@ export const about = `
 
             <div class="border-start border-custom-purple border-3 ps-3">
                 <p class="mb-1">
-                    <strong>Kangwon National University</strong> (2020.03 ~ )
-                    <!-- <p class="mb-0 ms-3">Bachelor of Science, Computer Science and Engineering</p> -->
-                    <p class="mb-0 ms-3">Computer Science and Engineering (4th Year)</p>
+                    <strong>Kangwon National University</strong> (2026.03 ~ Present)
+                    <p class="mb-0 ms-3">Master of Science in Computer Science and Engineering</p>
+                    <p class="mb-0 ms-3">College of Information Technology</p>
+                    <p class="mb-0 ms-3">M.S. Candidate</p>
+                </p>
+            </div>
+            <div class="border-start border-custom-purple border-3 ps-3">
+                <p class="mb-1">
+                    <strong>Kangwon National University</strong> (2020.03 ~ 2026.02)
+                    <p class="mb-0 ms-3">Bachelor of Science in Engineering</p>
+                    <p class="mb-0 ms-3">College of Information Technology</p>
+                    <p class="mb-0 ms-3">Department of Computer Science and Engineering</p>
                 </p>
             </div>
             
