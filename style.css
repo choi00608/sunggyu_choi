@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color:#e0eff0
+  background-color: #e0eff0;
 }
 
 code {
@@ -89,24 +89,24 @@ code {
 }
 
 #about {
-  border-radius: 15px
+  border-radius: 15px;
 }
 
 #projects {
-  border-radius: 15px
+  border-radius: 15px;
 }
 
 #skills {
-  border-radius: 15px
+  border-radius: 15px;
 }
 
 #contact {
-  border-radius: 15px
+  border-radius: 15px;
 }
 
-#btn{
-  background-color: #71CEA4
+.custom-btn {
+  background-color: #71CEA4;
 }
-#email-me-btn{
-  background-color: #71CEA4
+#email-me-btn {
+  background-color: #71CEA4;
 }

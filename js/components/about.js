@@ -27,21 +27,21 @@ export const about = `
             <hr class="my-4">
             <h4 class="mb-3">Education</h4>
 
-            <div class="border-start border-custom-purple border-3 ps-3">
-                <p class="mb-1">
+            <div class="border-start border-custom-purple border-3 ps-3 mb-3">
+                <div class="mb-1">
                     <strong>Kangwon National University</strong> (2026.03 ~ Present)
                     <p class="mb-0 ms-3">Master of Science in Computer Science and Engineering</p>
                     <p class="mb-0 ms-3">College of Information Technology</p>
                     <p class="mb-0 ms-3">M.S. Candidate</p>
-                </p>
+                </div>
             </div>
             <div class="border-start border-custom-purple border-3 ps-3">
-                <p class="mb-1">
+                <div class="mb-1">
                     <strong>Kangwon National University</strong> (2020.03 ~ 2026.02)
                     <p class="mb-0 ms-3">Bachelor of Science in Engineering</p>
                     <p class="mb-0 ms-3">College of Information Technology</p>
                     <p class="mb-0 ms-3">Department of Computer Science and Engineering</p>
-                </p>
+                </div>
             </div>
             
         </div>

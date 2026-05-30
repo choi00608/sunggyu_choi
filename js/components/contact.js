@@ -8,7 +8,7 @@ export const contactHTML = `
                 Whether you have a project idea, a question about my work, or just want to connect, feel free to reach out!
             </p>
             <a href="#" id="email-me-btn" class="btn btn-secondary m-2">Email Me</a>
-            <a id="btn" href="https://github.com/choi00608" target="_blank" class="btn btn-secondary m-2">GitHub</a>
+            <a href="https://github.com/choi00608" target="_blank" class="btn btn-secondary m-2 custom-btn">GitHub</a>
             <!--<a href="https://linkedin.com/in/cheolsukim" target="_blank" class="btn btn-info m-2">LinkedIn</a>-->
         </div>
     </div>
@@ -31,7 +31,7 @@ export function setupContactSection() {
     if (emailBtn) {
         emailBtn.addEventListener('click', async (event) => {
             event.preventDefault(); // Prevent default anchor behavior
-            const emailAddress = 'choi00608@gamil.com';
+            const emailAddress = 'choi00608@gmail.com';
             try {
                 await navigator.clipboard.writeText(emailAddress);
                 // Show Bootstrap Toast

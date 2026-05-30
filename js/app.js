@@ -2,7 +2,6 @@ import { header } from './components/header.js';
 import { about } from './components/about.js';
 import { projects } from './components/projects.js';
 import { skills } from './components/skills.js';
-import { interests } from './components/interests.js';
 import { contactHTML, setupContactSection } from './components/contact.js';
 
 /**
