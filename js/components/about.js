@@ -43,6 +43,18 @@ export const about = `
                     <p class="mb-0 ms-3">Department of Computer Science and Engineering</p>
                 </div>
             </div>
+
+            <hr class="my-4">
+            <h4 class="mb-3">Publications</h4>
+
+            <div class="border-start border-custom-purple border-3 ps-3 mb-3">
+                <div class="mb-1">
+                    <strong>Virtual Bronchoscopic Pathfinder (VBP):
+                    An Open-Source Web-Based System for Airway Segmentation, Cost-Field Path Planning, and Cross-Device 3D Navigation
+                    </strong>
+                    <p class="mb-0 ms-3">Young Kim 1 , Sunggyu Choi 2 , Chulmin Park 3 , Woojin Park 4,5 and Doohee Lee 4,*</p>
+                </div>
+            </div>
             
         </div>
     </div>
